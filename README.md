@@ -4,7 +4,7 @@ I'm a passionate **DevOps student** from France 🇫🇷
 
 **About me**
 
-- 💼 **Student / DevOps Enthusiast**  
+- 💼 **Student / DevOps Enthusiast for [Lunettes Pour Tous](https://lunettespourtous.com/)**  
 - 💻 Technologies: JavaScript, Node.js, GCP  
 - 🎮 Passionate about **DevOps** and **video games**  
 - 💬 Ask me about anything [here](https://github.com/Pierre-LPT/issues)
