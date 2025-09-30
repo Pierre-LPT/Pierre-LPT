@@ -12,7 +12,7 @@ I'm a passionate **DevOps student** from France
 <code><img height="20" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"></code>
 <code><img height="20" alt="gcp" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white"></code>
 <code><img height="20" alt="aws" src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=icloud&logoColor=white"></code>
-<code><img height="20" alt="cybersecurity" src="https://img.shields.io/badge/Cybersecurity-1E1E2F?style=flat&logo=security&logoColor=white"></code>
+<code><img height="20" alt="cybersecurity" src="https://img.shields.io/badge/Cybersecurity-1E1E2F?style=flat&logo=red-hat&logoColor=white"></code>
 
 | <a href="https://github.com/Pierre-LPT/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pierre-LPT&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pierre's github stats" /> 
