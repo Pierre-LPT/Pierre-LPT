@@ -1,11 +1,4 @@
-<p align="center">
-  <a href="https://github.com/Pierre-LPT
-"> 
-    <img width="80%" alt="Hello, I'm Pierre. I do DevOps!" src="./assets/gh-readme-header.png" /> 
-  </a>
-</p>
-
-<br />
+* Hello, I'm Pierre. I do DevOps! *
 
 I'm a passionate **DevOps student** from France 🇫🇷  
 
