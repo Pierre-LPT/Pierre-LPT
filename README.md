@@ -1,4 +1,4 @@
-* Hello, I'm Pierre. I do DevOps! *
+# Hello, I'm Pierre. I do DevOps! 
 
 I'm a passionate **DevOps student** from France 🇫🇷  
 
