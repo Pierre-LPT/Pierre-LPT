@@ -1,6 +1,6 @@
 # Hello, I'm Pierre. I do DevOps! 
 
-I'm a passionate **DevOps student** from France 🇫🇷  
+I'm a passionate **DevOps student** from <code><img height="20" alt="France" src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg"></code>
 
 **About me**
 
