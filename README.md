@@ -6,7 +6,7 @@ I'm a passionate **DevOps student** from France 🇫🇷
 
 - 💼 **Student / DevOps Enthusiast for [Lunettes Pour Tous](https://lunettespourtous.com/)**  
 - 💻 Technologies: JavaScript, Node.js, GCP  
-- 🎮 Passionate about **DevOps** and **video games**  
+- 🎮 Passionate about **Video Games**, **Movies** & **Music**
 
 <code><img height="20" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></code>
 <code><img height="20" alt="nodejs" src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"></code>
