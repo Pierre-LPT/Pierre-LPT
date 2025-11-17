@@ -21,6 +21,11 @@ I'm a passionate **DevOps student** from France
 <code><img height="20" alt="github-actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white"></code>
 <code><img height="20" alt="prometheus" src="https://img.shields.io/badge/Prometheus-FFE100?style=flat&logo=prometheus&logoColor=black"></code>
 <code><img height="20" alt="grafana" src="https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white"></code>
+<code><img height="20" alt="terraform" src="https://img.shields.io/badge/Terraform-A067DA?style=flat&logo=terraform&logoColor=white"></code>
+<code><img height="20" alt="ansible" src="https://img.shields.io/badge/Ansible-cc0100?style=flat&logo=ansible&logoColor=white"></code>
+
+
+
 
 | <a href="https://github.com/Pierre-LPT/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pierre-LPT&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pierre's github stats" /> 
